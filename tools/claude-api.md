@@ -12,7 +12,7 @@
 | claude-sonnet-4-6 | 200K tokens | $3/1M | $15/1M | General development, content |
 | claude-haiku-4-5 | 200K tokens | $0.80/1M | $4/1M | High-volume, cost-sensitive tasks |
 
-**New accounts receive free API credits.** Sign up: [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg)
+**New accounts receive free API credits.** Sign up: [console.anthropic.com](https://claude.ai/)
 
 ## Key Features
 
@@ -92,14 +92,14 @@ A: Default limits vary by tier: Tier 1 starts at 50 RPM (requests per minute). H
 A: For long document analysis and safety-critical applications, Claude API is generally preferred. For breadth of integrations, OpenAI has more third-party support. For cost, Claude Haiku is cheaper than GPT-4o-mini for most tasks.
 
 **Q: How do I get a Claude API key?**
-A: Sign up at [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg), create a project, and generate an API key.
+A: Sign up at [console.anthropic.com](https://claude.ai/), create a project, and generate an API key.
 
 **Q: Does the Claude API support streaming?**
 A: Yes. Streaming is supported via Server-Sent Events (SSE) using `stream=True` parameter.
 
 ## Getting Started
 
-1. Sign up at [Anthropic Console](https://claude.ai/referral/gvWKlhQXPg)
+1. Sign up at [Anthropic Console](https://claude.ai/)
 2. Install SDK: `pip install anthropic` or `npm install @anthropic-ai/sdk`
 3. Set environment variable: `export ANTHROPIC_API_KEY=sk-ant-...`
 4. Start with claude-haiku for cost efficiency

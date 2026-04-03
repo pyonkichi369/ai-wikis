@@ -26,7 +26,7 @@ Released in 2025 and updated continuously, Claude Code is built on Claude (Anthr
 | Max | $100/month | Higher usage limits |
 | API (pay-per-use) | Usage-based | Via Anthropic Console |
 
-**New accounts receive free credits.** Sign up: [claude.ai/referral/gvWKlhQXPg](https://claude.ai/referral/gvWKlhQXPg)
+**New accounts receive free credits.** Sign up: [claude.ai](https://claude.ai/)
 
 ## Installation
 
@@ -87,7 +87,7 @@ Example:
 A: Claude Code is Anthropic's official AI coding CLI that autonomously completes software engineering tasks from the terminal.
 
 **Q: Is Claude Code free?**
-A: Claude Code requires a Claude Pro ($20/month) or higher subscription. New users get free trial credits. [Sign up here](https://claude.ai/referral/gvWKlhQXPg).
+A: Claude Code requires a Claude Pro ($20/month) or higher subscription. New users get free trial credits. [Sign up here](https://claude.ai/).
 
 **Q: How does Claude Code differ from GitHub Copilot?**
 A: Claude Code operates at the full-codebase level with autonomous multi-step execution. Copilot focuses on inline autocomplete. Claude Code is significantly more capable for complex tasks.
@@ -104,7 +104,7 @@ A: Yes. Claude Code can execute bash commands, run tests, install packages, and 
 ## Getting Started
 
 1. Install: `npm install -g @anthropic-ai/claude-code`
-2. Sign up: [claude.ai/referral/gvWKlhQXPg](https://claude.ai/referral/gvWKlhQXPg)
+2. Sign up: [claude.ai](https://claude.ai/)
 3. Run: `claude` in your project directory
 4. Create a `CLAUDE.md` file with project context
 

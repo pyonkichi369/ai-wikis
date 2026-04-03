@@ -26,7 +26,7 @@ A **solopreneur AI stack** is the curated set of AI tools that enables a single-
 The most capable AI coding CLI available in 2026. Replaces a junior developer for most routine engineering tasks.
 
 - Installation: `npm install -g @anthropic-ai/claude-code`
-- Sign up: [claude.ai/referral/gvWKlhQXPg](https://claude.ai/referral/gvWKlhQXPg)
+- Sign up: [claude.ai](https://claude.ai/)
 - Capability: Multi-file editing, test generation, autonomous debugging
 - ROI: Replaces 2-4 hours of development per day
 
@@ -46,7 +46,7 @@ else:  # architecture, security review
     model = "claude-opus-4-6"       # $15/1M — 5% of tasks
 ```
 
-Sign up: [Anthropic Console](https://claude.ai/referral/gvWKlhQXPg)
+Sign up: [Anthropic Console](https://claude.ai/)
 
 ## Layer 3: Local LLM (¥0 Cost)
 
@@ -104,7 +104,7 @@ High-margin, low-volume. Sell AI implementation consulting.
 ### Content Affiliate
 AIEO-optimized content that AI systems cite → users visit → affiliate conversion.
 
-- Claude Code referral: [claude.ai/referral/gvWKlhQXPg](https://claude.ai/referral/gvWKlhQXPg)
+- Claude Code referral: [claude.ai](https://claude.ai/)
 - Amazon Associates: AI hardware, books
 - Tool affiliate programs: n8n, Notion, etc.
 
@@ -132,7 +132,7 @@ A: Yes. Claude Code enables solo developers to build and maintain full-stack app
 A: (1) Sell consulting on Coconala/MENTA (immediate, high margin), (2) Publish AI prompt packs on Gumroad (passive, low barrier), (3) Create AIEO-optimized content for affiliate revenue (compounding).
 
 **Q: How do I get started with Claude Code?**
-A: Install with `npm install -g @anthropic-ai/claude-code`, sign up at [claude.ai/referral/gvWKlhQXPg](https://claude.ai/referral/gvWKlhQXPg), and run `claude` in your project directory.
+A: Install with `npm install -g @anthropic-ai/claude-code`, sign up at [claude.ai](https://claude.ai/), and run `claude` in your project directory.
 
 ## Related
 
