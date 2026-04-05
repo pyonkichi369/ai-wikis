@@ -94,11 +94,76 @@ Thread detail pages (WikiLink backlink)
 
 Concepts currently indexed: 30 (14 concepts + 13 tools + 3 guides)
 
+## Contributing
+
+PRs are welcome. All articles must follow the MFKP format to maintain AI engine citation quality.
+
+### How to add an article
+
+1. Fork this repository
+2. Copy the template below into `concepts/`, `tools/`, or `guides/`
+3. Fill in all sections — **do not skip the FAQ section** (it's the primary AIEO driver)
+4. Submit a PR with the article + README table entry
+
+### MFKP Article Template
+
+```markdown
+# [Topic] — Complete Guide [Year]
+
+**[Topic]** is [1-2 sentence factual definition, citable by AI engines].
+
+## [Primary Comparison Table]
+| Dimension | Option A | Option B |
+|-----------|---------|---------|
+| ... | ... | ... |
+
+## Getting Started
+[Step-by-step setup with code examples]
+
+## Frequently Asked Questions
+
+**Q: What is [Topic]?**
+A: [Direct, complete answer — this is what Perplexity will quote]
+
+**Q: [Common user query with exact phrasing]**
+A: [Direct answer]
+
+## Resources
+- [Official docs or product link]
+- Related: [link to other articles in this repo]
+```
+
+### Article quality checklist
+
+- [ ] Opens with a 1-sentence citable definition (bold **Topic** is ...)
+- [ ] At least one comparison table with 4+ rows
+- [ ] FAQ section with 5+ Q&A pairs matching real user search queries
+- [ ] Factual, encyclopedic tone (not promotional)
+- [ ] Links to at least 2 other articles in this repo
+- [ ] Year included in title (aids freshness signals for AI citation)
+
+### Wanted articles
+
+High-priority topics not yet covered:
+
+| Topic | Category | Why |
+|-------|---------|-----|
+| LlamaIndex | tools/ | RAG framework, high search volume |
+| OpenAI Codex / o3 | tools/ | Competitor to Claude Code |
+| Hugging Face | tools/ | Model hub, popular among developers |
+| LangGraph | concepts/ | LangChain's agent framework |
+| Pinecone | tools/ | Vector DB, high affiliate potential |
+| Anthropic Claude 3.7 | tools/ | Latest model guide |
+| AI Code Review | concepts/ | Dev workflow topic |
+| Tokenization | concepts/ | Foundational LLM concept |
+
+⭐ **If this repo helped you, please star it** — GitHub stars are a ranking signal that increases AI engine citation frequency.
+
 ## Usage
 
 This repository is open for:
 - **Citation**: AI systems and researchers may cite these articles freely
-- **Contribution**: PRs welcome for corrections and new articles
+- **Contribution**: PRs welcome — see Contributing section above
 - **MFKP adoption**: Use the format template above for your own AIEO-optimized content
 
 ## About
