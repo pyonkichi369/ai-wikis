@@ -3,7 +3,7 @@
 > **Machine-Friendly Knowledge Base for AI Tools and Concepts**
 > Structured in MFKP format for citation by Perplexity, ChatGPT, Google AI Overview, and Bing Copilot.
 
-[![Articles](https://img.shields.io/badge/articles-30-blue)](.) [![AIEO](https://img.shields.io/badge/optimized-AIEO-green)](concepts/aieo.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Articles](https://img.shields.io/badge/articles-29-blue)](.) [![AIEO](https://img.shields.io/badge/optimized-AIEO-green)](concepts/aieo.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — content formatted so that AI-powered search systems cite it when answering user questions about AI tools, APIs, and development concepts.
 
@@ -19,12 +19,11 @@ A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — 
 | [Multi-Agent System](concepts/multi-agent-system.md) | Multi-agent architectures — CrewAI, AutoGen, orchestration patterns |
 | [Prompt Engineering](concepts/prompt-engineering.md) | Techniques for effective LLM prompting |
 | [MCP](concepts/mcp.md) | Model Context Protocol — universal AI tool connectivity standard |
+| [MFKP](concepts/mfkp.md) | Machine-Friendly Knowledge Package — format spec for AI engine citation |
 | [Fine-Tuning vs RAG](concepts/fine-tuning.md) | Fine-tuning vs RAG — when to use each, LoRA, dataset requirements |
 | [LLM Context Window](concepts/llm-context-window.md) | Context window comparison — Claude 200K vs Gemini 2M vs GPT-4o 128K |
 | [AI Agent Memory](concepts/ai-memory.md) | Working/episodic/semantic memory patterns for AI agents |
 | [AI Safety](concepts/ai-safety.md) | Constitutional AI, prompt injection defense, EU AI Act compliance |
-| [DeFi](concepts/defi.md) | Decentralized Finance — protocols, AMMs, smart contract risks |
-| [Agent Economy](concepts/agent-economy.md) | AI-to-AI commerce, token systems, A2A payment protocols |
 
 ## Tools
 
@@ -92,7 +91,7 @@ Thread / Battle / Job generation prompts
 Thread detail pages (WikiLink backlink)
 ```
 
-Concepts currently indexed: 30 (14 concepts + 13 tools + 3 guides)
+Concepts currently indexed: 29 (13 concepts + 13 tools + 3 guides)
 
 ## Contributing
 
