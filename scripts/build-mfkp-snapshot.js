@@ -21,8 +21,11 @@ const CONCEPT_GENRE_MAP = {
   "defi":               ["money", "crypto", "web3", "jobs"],
   "agent-economy":      ["jobs", "money", "crypto", "web3"],
   // tools/
-  "claude-api":         ["office", "education"],
+  "claude-api":         ["office", "education", "debate"],
   "claude-code":        ["office", "education", "debate"],
+  "cursor":             ["office", "education", "debate"],
+  "perplexity":         ["office", "education", "money"],
+  "vercel":             ["office", "education"],
   // guides/
   "solopreneur-ai-stack": ["money", "office", "education"],
 };

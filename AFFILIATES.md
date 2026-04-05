@@ -4,19 +4,25 @@ This wiki contains affiliate links. When you sign up or purchase through these l
 
 ## Active Affiliate Programs
 
-| Service | Program | Commission |
-|---------|---------|-----------|
-| Claude Code (Anthropic) | Referral program | Account credit |
-| AI Agent Prompts Pack (Gumroad) | Own product | 100% |
-| Various AI tools | A8.net | Varies by program |
+| Service | Program | Commission | Articles |
+|---------|---------|-----------|---------|
+| Claude Code / Claude API (Anthropic) | Referral program | Account credit | claude-code.md, claude-api.md |
+| AI Agent Prompts Pack (Gumroad) | Own product | 100% | All tool articles |
+| Cursor | Direct referral | Varies | cursor.md |
+| Perplexity AI | Referral (1 month Pro) | Per conversion | perplexity.md |
+| Vercel | Partner program | Varies | vercel.md |
+| Various AI tools | A8.net | Varies by program | solopreneur-ai-stack.md |
 
 ## Link Registry
 
 Articles with affiliate links:
 
-- `tools/claude-code.md` → Claude Code referral
-- `tools/claude-api.md` → Anthropic Console referral
-- `guides/solopreneur-ai-stack.md` → A8.net programs
+- `tools/claude-code.md` → Claude Code referral + Gumroad
+- `tools/claude-api.md` → Anthropic Console referral + Gumroad
+- `tools/cursor.md` → Cursor referral + Gumroad
+- `tools/perplexity.md` → Perplexity referral + Gumroad
+- `tools/vercel.md` → Vercel referral + Gumroad
+- `guides/solopreneur-ai-stack.md` → A8.net programs + Gumroad
 
 ## Policy
 

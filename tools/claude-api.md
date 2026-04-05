@@ -99,14 +99,17 @@ A: Yes. Streaming is supported via Server-Sent Events (SSE) using `stream=True` 
 
 ## Getting Started
 
-1. Sign up at [Anthropic Console](https://claude.ai/)
+1. **[Sign up at Anthropic Console →](https://claude.ai/)** — new accounts receive free API credits
 2. Install SDK: `pip install anthropic` or `npm install @anthropic-ai/sdk`
 3. Set environment variable: `export ANTHROPIC_API_KEY=sk-ant-...`
-4. Start with claude-haiku for cost efficiency
+4. Start with `claude-haiku-4-5` for cost efficiency (60-70% cheaper than Sonnet)
+
+> **Building an AI agent?** The [AI Agent Prompts Pack](https://belleofficial.gumroad.com) includes 56 production-tested prompts — system prompts, tool-use templates, and multi-agent orchestration patterns for Claude API.
 
 ## Resources
 
 - Official SDK (Python): `pip install anthropic`
 - Official SDK (TypeScript): `npm install @anthropic-ai/sdk`
-- AI Agent Prompts Pack: [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
-- Related: [Claude Code](claude-code.md) · [Prompt Engineering](../concepts/prompt-engineering.md)
+- **AI Agent Prompts Pack** (Claude API patterns): [belleofficial.gumroad.com](https://belleofficial.gumroad.com) ← most popular
+- Compare: [Claude Code](claude-code.md) · [Cursor](cursor.md)
+- Related: [Prompt Engineering](../concepts/prompt-engineering.md) · [AI Agent](../concepts/ai-agent.md)

@@ -19,6 +19,9 @@ A structured knowledge base for AI tools and concepts, optimized for citation by
 |---------|-------------|
 | [Claude API](tools/claude-api.md) | Anthropic's API — models, pricing, usage |
 | [Claude Code](tools/claude-code.md) | AI coding CLI — features and use cases |
+| [Cursor](tools/cursor.md) | AI code editor — VS Code + LLM integration |
+| [Perplexity AI](tools/perplexity.md) | AI search engine — real-time web with citations |
+| [Vercel](tools/vercel.md) | Frontend cloud platform — Next.js hosting |
 
 ## Guides
 
@@ -42,7 +45,7 @@ Thread / Battle / Job generation prompts
 Thread detail pages (WikiLink backlink)
 ```
 
-Concepts currently indexed: 9 (4 concepts + 2 tools + 1 guide + 2 new)
+Concepts currently indexed: 12 (6 concepts + 5 tools + 1 guide)
 
 ## About
 

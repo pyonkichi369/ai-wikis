@@ -104,12 +104,15 @@ A: Yes. Claude Code can execute bash commands, run tests, install packages, and 
 ## Getting Started
 
 1. Install: `npm install -g @anthropic-ai/claude-code`
-2. Sign up: [claude.ai](https://claude.ai/)
+2. **[Sign up at claude.ai →](https://claude.ai/)** — new accounts get free credits
 3. Run: `claude` in your project directory
 4. Create a `CLAUDE.md` file with project context
+
+> **Power users**: The [AI Agent Prompts Pack](https://belleofficial.gumroad.com) includes 56 battle-tested prompts optimized for Claude Code — covering codebase setup, autonomous debugging, and CLAUDE.md templates.
 
 ## Resources
 
 - Official docs: claude.ai/code
-- AI Agent Prompts Pack (for Claude Code power users): [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
-- Related: [Claude API guide](claude-api.md)
+- **AI Agent Prompts Pack** (56 prompts for Claude Code): [belleofficial.gumroad.com](https://belleofficial.gumroad.com) ← most popular
+- Compare: [Cursor](cursor.md) · [Claude API](claude-api.md)
+- Related: [Solopreneur AI Stack](../guides/solopreneur-ai-stack.md)
