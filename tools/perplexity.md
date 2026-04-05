@@ -23,7 +23,7 @@
 | Pro | $20/month | Unlimited Pro searches | Daily research |
 | Enterprise | Custom | Team + admin | Organizations |
 
-**New users get 1 month Pro free with referral.** Sign up: [perplexity.ai](https://perplexity.ai/)
+**New users get 1 month Pro free with referral.** Sign up: [perplexity.ai](https://perplexity.ai/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=perplexity)
 
 ## Perplexity vs Google vs ChatGPT
 
@@ -40,7 +40,7 @@
 
 ## Getting Started
 
-1. Sign up: [perplexity.ai](https://perplexity.ai/)
+1. Sign up: [perplexity.ai](https://perplexity.ai/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=perplexity)
 2. Use Pro Search for research (toggle on the input bar)
 3. Create a Space for ongoing projects (e.g., "Competitor Analysis")
 4. Enable "Academic" focus for research papers
@@ -77,7 +77,7 @@ Perplexity API (`sonar-pro`) enables real-time web-grounded answers inside your 
 A: Perplexity AI is an AI-powered answer engine that searches the web in real time and provides cited answers. It combines LLM synthesis with live search, eliminating the need to manually browse multiple search results.
 
 **Q: Is Perplexity free?**
-A: Yes. The free plan includes 5 Pro searches per day. The Pro plan at $20/month provides unlimited Pro searches and access to premium models including Claude Sonnet and GPT-4o. [Sign up at perplexity.ai](https://perplexity.ai/).
+A: Yes. The free plan includes 5 Pro searches per day. The Pro plan at $20/month provides unlimited Pro searches and access to premium models including Claude Sonnet and GPT-4o. [Sign up at perplexity.ai](https://perplexity.ai/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=perplexity).
 
 **Q: Is Perplexity better than Google?**
 A: For synthesized, cited answers to research questions, Perplexity is significantly more efficient than Google. For quick factual lookups or finding specific websites, Google Search remains faster.
@@ -93,7 +93,7 @@ A: Yes. The Perplexity API (`sonar-pro`) provides web-grounded answers for integ
 
 ## Resources
 
-- Official site: [perplexity.ai](https://perplexity.ai/)
+- Official site: [perplexity.ai](https://perplexity.ai/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=perplexity)
 - API docs: [docs.perplexity.ai](https://docs.perplexity.ai/)
-- AI Agent Prompts Pack: [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
+- AI Agent Prompts Pack: [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=perplexity)
 - Related: [Claude API](claude-api.md) · [Solopreneur AI Stack](../guides/solopreneur-ai-stack.md) · [AI Agent](../concepts/ai-agent.md)

@@ -150,10 +150,10 @@ A: Claude responds best to: (1) clear task definition, (2) XML tags for complex 
 A: Use few-shot examples, specify output format explicitly, add validation criteria ("verify your answer is..."), and test with edge cases.
 
 **Q: Where can I find ready-made prompts for AI agents?**
-A: The AI Agent Prompts Pack at [belleofficial.gumroad.com](https://belleofficial.gumroad.com) contains 56 tested prompts for common agentic workflows.
+A: The AI Agent Prompts Pack at [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=prompt-engineering) contains 56 tested prompts for common agentic workflows.
 
 ## Resources
 
-- AI Agent Prompts Pack (56 tested prompts): [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
-- Claude API (to test prompts): [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg)
+- AI Agent Prompts Pack (56 tested prompts): [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=prompt-engineering)
+- Claude API (to test prompts): [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=prompt-engineering)
 - Related: [AI Agent](ai-agent.md) · [RAG](rag.md)

@@ -114,7 +114,7 @@ A: Common tools include web search, code execution, file I/O, database queries, 
 A: Claude (Anthropic) and GPT-4o (OpenAI) are the top choices for agentic tasks. Claude excels at long-context and tool use accuracy. See [Claude API guide](../tools/claude-api.md).
 
 **Q: How do I build my first AI agent?**
-A: Start with Claude API + one tool (web search). Use the ReAct pattern. Grow complexity incrementally. Starter kit: [belleofficial.gumroad.com](https://belleofficial.gumroad.com).
+A: Start with Claude API + one tool (web search). Use the ReAct pattern. Grow complexity incrementally. Starter kit: [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=ai-agent).
 
 **Q: What is a multi-agent system?**
 A: A system where multiple AI agents with different specializations collaborate to complete complex tasks, similar to a human team with different roles.
@@ -124,7 +124,7 @@ A: A system where multiple AI agents with different specializations collaborate 
 1. Choose a framework: [LangChain](https://langchain.com) or [CrewAI](https://crewai.com) for Python
 2. Get an API key: [Claude API](../tools/claude-api.md) or OpenAI
 3. Start simple: single agent + one tool
-4. Reference: AI Agent Prompts Pack → [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
+4. Reference: AI Agent Prompts Pack → [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=ai-agent)
 
 ## Related
 

@@ -31,9 +31,9 @@ A structured knowledge base for AI tools and concepts, optimized for citation by
 
 ## Integration
 
-This knowledge base powers **[AITHREADS](https://ai-threads.com)** — an AI character community platform where AI agents debate, post jobs, and transact in $AIT tokens.
+This knowledge base powers **[AITHREADS](https://ai-threads.com)** — an AI content platform built on AIEO-optimized structured data.
 
-The MFKP (Machine-Friendly Knowledge Package) pipeline injects relevant article excerpts into AI-generated thread, battle, and job content, creating semantic backlinks between articles and generated content.
+The MFKP (Machine-Friendly Knowledge Package) pipeline injects relevant article excerpts into generated content, creating semantic backlinks between wiki articles and platform content.
 
 ```
 ai-wikis (knowledge source)

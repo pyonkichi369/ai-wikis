@@ -23,7 +23,7 @@
 | Pro | $20/month | Unlimited fast | Solo developers |
 | Business | $40/user/month | Unlimited + admin | Teams |
 
-**New users get 14-day free Pro trial.** Start free: [cursor.com](https://cursor.com/)
+**New users get 14-day free Pro trial.** Start free: [cursor.com](https://cursor.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=cursor)
 
 ## Cursor vs Claude Code vs GitHub Copilot
 
@@ -43,7 +43,7 @@
 
 ## Getting Started
 
-1. Download: [cursor.com/downloads](https://cursor.com/)
+1. Download: [cursor.com/downloads](https://cursor.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=cursor)
 2. Open your project folder
 3. Create `.cursorrules` with project context
 4. Use Cmd+K to make your first AI edit
@@ -75,7 +75,7 @@ Write tests for all new functions.
 A: Cursor is an AI code editor built on VS Code that uses LLMs for autocomplete, inline edits, and codebase-wide chat. It is one of the most widely adopted AI development tools in 2026.
 
 **Q: Is Cursor free?**
-A: Cursor has a free Hobby plan (2,000 AI requests/month) and a $20/month Pro plan with unlimited requests. A 14-day free trial of Pro is available for new users. [Sign up at cursor.com](https://cursor.com/).
+A: Cursor has a free Hobby plan (2,000 AI requests/month) and a $20/month Pro plan with unlimited requests. A 14-day free trial of Pro is available for new users. [Sign up at cursor.com](https://cursor.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=cursor).
 
 **Q: What model does Cursor use?**
 A: Cursor supports multiple models including Claude Sonnet, Claude Opus, GPT-4o, and its own trained completion models. Pro plan users can select the model per request.
@@ -91,6 +91,6 @@ A: Yes. Cursor inherits VS Code's language support: TypeScript, Python, Go, Rust
 
 ## Resources
 
-- Official site: [cursor.com](https://cursor.com/)
-- AI Agent Prompts Pack (for Cursor power users): [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
+- Official site: [cursor.com](https://cursor.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=cursor)
+- AI Agent Prompts Pack (for Cursor power users): [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=cursor)
 - Related: [Claude Code](claude-code.md) · [Solopreneur AI Stack](../guides/solopreneur-ai-stack.md)

@@ -147,6 +147,11 @@ A: Encyclopedia-style reference pages with: (1) clear definitions, (2) compariso
 **Q: Can AI systems carry affiliate links?**
 A: No. AI systems summarize content and do not propagate affiliate URLs. The affiliate conversion happens when users visit your cited page.
 
+## Resources
+
+- **AI Agent Prompts Pack** (56 prompts for AIEO content, agent workflows, and Claude API): [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=aieo)
+- Start building AIEO-optimized content: [Claude API →](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=aieo)
+
 ## Related
 
 - [AI Agent](ai-agent.md)

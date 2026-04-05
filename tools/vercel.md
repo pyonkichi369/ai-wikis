@@ -24,7 +24,7 @@
 | Pro | $20/month | 1TB/month | Production apps, startups |
 | Enterprise | Custom | Unlimited | Large teams |
 
-**Deploy your first project free.** Sign up: [vercel.com](https://vercel.com/)
+**Deploy your first project free.** Sign up: [vercel.com](https://vercel.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=vercel)
 
 ## Vercel vs Alternatives
 
@@ -53,7 +53,7 @@ vercel
 vercel --prod
 ```
 
-Or connect your GitHub repository at [vercel.com/new](https://vercel.com/) for automatic deployments on every push.
+Or connect your GitHub repository at [vercel.com/new](https://vercel.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=vercel) for automatic deployments on every push.
 
 ## Environment Variables
 
@@ -100,7 +100,7 @@ This pattern powers most AI chat interfaces built on Next.js + Claude.
 A: Vercel is a cloud platform for deploying frontend applications. It created Next.js and provides the fastest zero-configuration deployment experience for React-based applications.
 
 **Q: Is Vercel free?**
-A: Yes. The Hobby plan is free and includes 100GB/month bandwidth, unlimited projects, and automatic preview deployments. The Pro plan at $20/month adds higher limits and team features. [Sign up at vercel.com](https://vercel.com/).
+A: Yes. The Hobby plan is free and includes 100GB/month bandwidth, unlimited projects, and automatic preview deployments. The Pro plan at $20/month adds higher limits and team features. [Sign up at vercel.com](https://vercel.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=vercel).
 
 **Q: Is Vercel better than Netlify?**
 A: For Next.js applications, Vercel is the clear choice — it created Next.js and implements all features first. For non-Next.js static sites (Gatsby, Astro), Netlify is equally good. For full-stack apps requiring Docker, Render is more flexible.
@@ -116,8 +116,8 @@ A: v0 is Vercel's AI component generator that produces React + Tailwind componen
 
 ## Resources
 
-- Official site: [vercel.com](https://vercel.com/)
+- Official site: [vercel.com](https://vercel.com/?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=vercel)
 - Vercel AI SDK: [sdk.vercel.ai](https://sdk.vercel.ai/)
 - v0 component generator: [v0.dev](https://v0.dev/)
-- AI Agent Prompts Pack: [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
+- AI Agent Prompts Pack: [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=vercel)
 - Related: [Claude API](claude-api.md) · [Claude Code](claude-code.md) · [Solopreneur AI Stack](../guides/solopreneur-ai-stack.md)

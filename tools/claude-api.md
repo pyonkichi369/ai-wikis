@@ -12,7 +12,7 @@
 | claude-sonnet-4-6 | 200K tokens | $3/1M | $15/1M | General development, content |
 | claude-haiku-4-5 | 200K tokens | $0.80/1M | $4/1M | High-volume, cost-sensitive tasks |
 
-**New accounts receive free API credits.** Sign up: [console.anthropic.com](https://claude.ai/)
+**New accounts receive free API credits.** Sign up: [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=claude-api)
 
 ## Key Features
 
@@ -92,24 +92,24 @@ A: Default limits vary by tier: Tier 1 starts at 50 RPM (requests per minute). H
 A: For long document analysis and safety-critical applications, Claude API is generally preferred. For breadth of integrations, OpenAI has more third-party support. For cost, Claude Haiku is cheaper than GPT-4o-mini for most tasks.
 
 **Q: How do I get a Claude API key?**
-A: Sign up at [console.anthropic.com](https://claude.ai/), create a project, and generate an API key.
+A: Sign up at [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=claude-api), create a project, and generate an API key.
 
 **Q: Does the Claude API support streaming?**
 A: Yes. Streaming is supported via Server-Sent Events (SSE) using `stream=True` parameter.
 
 ## Getting Started
 
-1. **[Sign up at Anthropic Console →](https://claude.ai/)** — new accounts receive free API credits
+1. **[Sign up at Anthropic Console →](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=claude-api)** — new accounts receive free API credits
 2. Install SDK: `pip install anthropic` or `npm install @anthropic-ai/sdk`
 3. Set environment variable: `export ANTHROPIC_API_KEY=sk-ant-...`
 4. Start with `claude-haiku-4-5` for cost efficiency (60-70% cheaper than Sonnet)
 
-> **Building an AI agent?** The [AI Agent Prompts Pack](https://belleofficial.gumroad.com) includes 56 production-tested prompts — system prompts, tool-use templates, and multi-agent orchestration patterns for Claude API.
+> **Building an AI agent?** The [AI Agent Prompts Pack](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=claude-api) includes 56 production-tested prompts — system prompts, tool-use templates, and multi-agent orchestration patterns for Claude API.
 
 ## Resources
 
 - Official SDK (Python): `pip install anthropic`
 - Official SDK (TypeScript): `npm install @anthropic-ai/sdk`
-- **AI Agent Prompts Pack** (Claude API patterns): [belleofficial.gumroad.com](https://belleofficial.gumroad.com) ← most popular
+- **AI Agent Prompts Pack** (Claude API patterns): [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=claude-api) ← most popular
 - Compare: [Claude Code](claude-code.md) · [Cursor](cursor.md)
 - Related: [Prompt Engineering](../concepts/prompt-engineering.md) · [AI Agent](../concepts/ai-agent.md)

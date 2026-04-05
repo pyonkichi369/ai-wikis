@@ -121,6 +121,6 @@ A: 1) Index your documents with an embedding model, 2) Store in a vector DB (sta
 
 ## Resources
 
-- Claude API (for RAG generation): [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg)
-- AI Agent Prompts Pack (RAG agent prompts included): [belleofficial.gumroad.com](https://belleofficial.gumroad.com)
+- Claude API (for RAG generation): [console.anthropic.com](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=rag)
+- AI Agent Prompts Pack (RAG agent prompts included): [belleofficial.gumroad.com](https://belleofficial.gumroad.com?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=rag)
 - Related: [AI Agent](ai-agent.md) · [Prompt Engineering](prompt-engineering.md)
