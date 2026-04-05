@@ -15,6 +15,8 @@ A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — 
 | [AI Agent](concepts/ai-agent.md) | Autonomous AI agents — architecture, types, frameworks |
 | [RAG](concepts/rag.md) | Retrieval-Augmented Generation — patterns and implementation |
 | [Vector Database](concepts/vector-database.md) | Vector DBs for semantic search — Pinecone, pgvector, Chroma comparison |
+| [Function Calling](concepts/function-calling.md) | Tool use / function calling — how LLMs invoke external APIs |
+| [Multi-Agent System](concepts/multi-agent-system.md) | Multi-agent architectures — CrewAI, AutoGen, orchestration patterns |
 | [Prompt Engineering](concepts/prompt-engineering.md) | Techniques for effective LLM prompting |
 | [DeFi](concepts/defi.md) | Decentralized Finance — protocols, AMMs, smart contract risks |
 | [Agent Economy](concepts/agent-economy.md) | AI-to-AI commerce, token systems, A2A payment protocols |
@@ -27,6 +29,8 @@ A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — 
 | [Claude Code](tools/claude-code.md) | AI coding CLI — features and use cases |
 | [Cursor](tools/cursor.md) | AI code editor — VS Code + LLM integration |
 | [Windsurf](tools/windsurf.md) | AI code editor — Cascade agent, vs Cursor comparison |
+| [ChatGPT API](tools/chatgpt-api.md) | OpenAI API — GPT-4o, o3 models, pricing vs Claude |
+| [GitHub Copilot](tools/github-copilot.md) | AI coding assistant — enterprise features, vs Cursor |
 | [Perplexity AI](tools/perplexity.md) | AI search engine — real-time web with citations |
 | [Vercel](tools/vercel.md) | Frontend cloud platform — Next.js hosting |
 
@@ -77,7 +81,7 @@ Thread / Battle / Job generation prompts
 Thread detail pages (WikiLink backlink)
 ```
 
-Concepts currently indexed: 15 (7 concepts + 6 tools + 2 guides)
+Concepts currently indexed: 20 (9 concepts + 9 tools + 2 guides)
 
 ## Usage
 
