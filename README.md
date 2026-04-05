@@ -3,7 +3,7 @@
 > **Machine-Friendly Knowledge Base for AI Tools and Concepts**
 > Structured in MFKP format for citation by Perplexity, ChatGPT, Google AI Overview, and Bing Copilot.
 
-[![Articles](https://img.shields.io/badge/articles-15-blue)](.) [![AIEO](https://img.shields.io/badge/optimized-AIEO-green)](concepts/aieo.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Articles](https://img.shields.io/badge/articles-30-blue)](.) [![AIEO](https://img.shields.io/badge/optimized-AIEO-green)](concepts/aieo.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — content formatted so that AI-powered search systems cite it when answering user questions about AI tools, APIs, and development concepts.
 
@@ -18,6 +18,11 @@ A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — 
 | [Function Calling](concepts/function-calling.md) | Tool use / function calling — how LLMs invoke external APIs |
 | [Multi-Agent System](concepts/multi-agent-system.md) | Multi-agent architectures — CrewAI, AutoGen, orchestration patterns |
 | [Prompt Engineering](concepts/prompt-engineering.md) | Techniques for effective LLM prompting |
+| [MCP](concepts/mcp.md) | Model Context Protocol — universal AI tool connectivity standard |
+| [Fine-Tuning vs RAG](concepts/fine-tuning.md) | Fine-tuning vs RAG — when to use each, LoRA, dataset requirements |
+| [LLM Context Window](concepts/llm-context-window.md) | Context window comparison — Claude 200K vs Gemini 2M vs GPT-4o 128K |
+| [AI Agent Memory](concepts/ai-memory.md) | Working/episodic/semantic memory patterns for AI agents |
+| [AI Safety](concepts/ai-safety.md) | Constitutional AI, prompt injection defense, EU AI Act compliance |
 | [DeFi](concepts/defi.md) | Decentralized Finance — protocols, AMMs, smart contract risks |
 | [Agent Economy](concepts/agent-economy.md) | AI-to-AI commerce, token systems, A2A payment protocols |
 
@@ -30,9 +35,14 @@ A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — 
 | [Cursor](tools/cursor.md) | AI code editor — VS Code + LLM integration |
 | [Windsurf](tools/windsurf.md) | AI code editor — Cascade agent, vs Cursor comparison |
 | [ChatGPT API](tools/chatgpt-api.md) | OpenAI API — GPT-4o, o3 models, pricing vs Claude |
+| [Gemini API](tools/gemini-api.md) | Google Gemini API — 1M context, free tier, vs Claude comparison |
 | [GitHub Copilot](tools/github-copilot.md) | AI coding assistant — enterprise features, vs Cursor |
 | [Perplexity AI](tools/perplexity.md) | AI search engine — real-time web with citations |
 | [Vercel](tools/vercel.md) | Frontend cloud platform — Next.js hosting |
+| [Supabase](tools/supabase.md) | Open-source BaaS — PostgreSQL + pgvector + Auth |
+| [Ollama](tools/ollama.md) | Local LLM runner — free, private, OpenAI-compatible API |
+| [LangChain](tools/langchain.md) | LLM application framework — chains, agents, RAG pipelines |
+| [n8n](tools/n8n.md) | Open-source workflow automation — self-hostable, AI-native |
 
 ## Guides
 
@@ -40,6 +50,7 @@ A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — 
 |---------|-------------|
 | [Solopreneur AI Stack](guides/solopreneur-ai-stack.md) | Recommended AI tools for solo founders |
 | [AI Affiliate Strategy](guides/ai-affiliate-strategy.md) | AIEO × affiliate revenue — complete monetization guide |
+| [Claude Code Setup](guides/claude-code-setup.md) | Complete Claude Code installation and configuration tutorial |
 
 ## MFKP Format
 
@@ -81,7 +92,7 @@ Thread / Battle / Job generation prompts
 Thread detail pages (WikiLink backlink)
 ```
 
-Concepts currently indexed: 20 (9 concepts + 9 tools + 2 guides)
+Concepts currently indexed: 30 (14 concepts + 13 tools + 3 guides)
 
 ## Usage
 
@@ -94,4 +105,4 @@ This repository is open for:
 
 Maintained by [pyonkichi369](https://github.com/pyonkichi369). Affiliate disclosures: [AFFILIATES.md](AFFILIATES.md).
 
-**Topics**: `ai` `llm` `claude` `cursor` `perplexity` `rag` `vector-database` `prompt-engineering` `aieo` `affiliate` `solopreneur` `ai-agent` `mfkp`
+**Topics**: `ai` `llm` `claude` `cursor` `perplexity` `rag` `vector-database` `prompt-engineering` `aieo` `affiliate` `solopreneur` `ai-agent` `mfkp` `mcp` `fine-tuning` `langchain` `ollama` `supabase` `n8n` `ai-safety` `context-window` `gemini`
