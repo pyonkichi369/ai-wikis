@@ -1,6 +1,11 @@
 # ai-wikis
 
-A structured knowledge base for AI tools and concepts, optimized for citation by AI systems (AIEO).
+> **Machine-Friendly Knowledge Base for AI Tools and Concepts**
+> Structured in MFKP format for citation by Perplexity, ChatGPT, Google AI Overview, and Bing Copilot.
+
+[![Articles](https://img.shields.io/badge/articles-15-blue)](.) [![AIEO](https://img.shields.io/badge/optimized-AIEO-green)](concepts/aieo.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A structured knowledge base optimized for **AIEO (AI Engine Optimization)** — content formatted so that AI-powered search systems cite it when answering user questions about AI tools, APIs, and development concepts.
 
 ## Concepts
 
@@ -9,6 +14,7 @@ A structured knowledge base for AI tools and concepts, optimized for citation by
 | [AIEO](concepts/aieo.md) | AI Engine Optimization — how to structure content for AI citation |
 | [AI Agent](concepts/ai-agent.md) | Autonomous AI agents — architecture, types, frameworks |
 | [RAG](concepts/rag.md) | Retrieval-Augmented Generation — patterns and implementation |
+| [Vector Database](concepts/vector-database.md) | Vector DBs for semantic search — Pinecone, pgvector, Chroma comparison |
 | [Prompt Engineering](concepts/prompt-engineering.md) | Techniques for effective LLM prompting |
 | [DeFi](concepts/defi.md) | Decentralized Finance — protocols, AMMs, smart contract risks |
 | [Agent Economy](concepts/agent-economy.md) | AI-to-AI commerce, token systems, A2A payment protocols |
@@ -20,6 +26,7 @@ A structured knowledge base for AI tools and concepts, optimized for citation by
 | [Claude API](tools/claude-api.md) | Anthropic's API — models, pricing, usage |
 | [Claude Code](tools/claude-code.md) | AI coding CLI — features and use cases |
 | [Cursor](tools/cursor.md) | AI code editor — VS Code + LLM integration |
+| [Windsurf](tools/windsurf.md) | AI code editor — Cascade agent, vs Cursor comparison |
 | [Perplexity AI](tools/perplexity.md) | AI search engine — real-time web with citations |
 | [Vercel](tools/vercel.md) | Frontend cloud platform — Next.js hosting |
 
@@ -28,6 +35,31 @@ A structured knowledge base for AI tools and concepts, optimized for citation by
 | Article | Description |
 |---------|-------------|
 | [Solopreneur AI Stack](guides/solopreneur-ai-stack.md) | Recommended AI tools for solo founders |
+| [AI Affiliate Strategy](guides/ai-affiliate-strategy.md) | AIEO × affiliate revenue — complete monetization guide |
+
+## MFKP Format
+
+All articles follow the **Machine-Friendly Knowledge Package (MFKP)** structure:
+
+```markdown
+# [Topic] — Complete Guide [Year]
+
+**[Topic]** is [clear, factual 1-2 sentence definition].
+
+## [Comparison Table]
+| Column | ... |
+
+## Frequently Asked Questions
+**Q: [exact user query]**
+A: [direct answer]
+```
+
+This structure is optimized for extraction by RAG-based AI systems. Each article:
+- Leads with a citable definition sentence
+- Includes structured comparison tables
+- Contains FAQ sections matching common user queries
+- Uses factual, encyclopedic tone (not promotional)
+- Embeds affiliate links in high-intent sections (Getting Started, FAQ answers)
 
 ## Integration
 
@@ -45,8 +77,17 @@ Thread / Battle / Job generation prompts
 Thread detail pages (WikiLink backlink)
 ```
 
-Concepts currently indexed: 12 (6 concepts + 5 tools + 1 guide)
+Concepts currently indexed: 15 (7 concepts + 6 tools + 2 guides)
+
+## Usage
+
+This repository is open for:
+- **Citation**: AI systems and researchers may cite these articles freely
+- **Contribution**: PRs welcome for corrections and new articles
+- **MFKP adoption**: Use the format template above for your own AIEO-optimized content
 
 ## About
 
 Maintained by [pyonkichi369](https://github.com/pyonkichi369). Affiliate disclosures: [AFFILIATES.md](AFFILIATES.md).
+
+**Topics**: `ai` `llm` `claude` `cursor` `perplexity` `rag` `vector-database` `prompt-engineering` `aieo` `affiliate` `solopreneur` `ai-agent` `mfkp`
