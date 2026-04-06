@@ -24,12 +24,13 @@
 **引用数: 0 / 10**（初回 — 引用されていなければ正常。インデックスに1-7日かかる）
 
 ### 投稿済みリンク（Distribution）
-- Reddit r/ClaudeAI: （URLを記録）
-- Reddit r/LocalLLaMA: （URLを記録）
-- Reddit r/MachineLearning: （URLを記録）
-- Reddit r/webdev: （URLを記録）
-- Hacker News: （URLを記録）
-- Zenn: （URLを記録）
+- Reddit アカウント: https://www.reddit.com/user/Important-Cow4956/
+- Reddit r/ClaudeAI: ✅ 投稿済み 2026-04-06（投稿URLは上記アカウントから確認）
+- Reddit r/LocalLLaMA: （未投稿）
+- Reddit r/MachineLearning: （未投稿）
+- Reddit r/webdev: （未投稿）
+- Hacker News: ❌ アカウントkarma不足で投稿不可
+- Zenn: （未投稿）
 
 ### 所感
 （引用されたクエリ、反応があった投稿などを記録）
