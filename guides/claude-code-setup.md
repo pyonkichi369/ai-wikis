@@ -235,6 +235,11 @@ A: Use `/compact` to compress context when switching tasks. Use `/cost` to monit
 - **AI Agent Prompts Pack** (56 Claude Code prompts: CLAUDE.md templates, slash commands, CI/CD recipes): [th19930828.gumroad.com/l/wpnqp](https://th19930828.gumroad.com/l/wpnqp?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=claude-code-setup)
 - MCP protocol: [mcp.md](../concepts/mcp.md)
 
+## ai-threadsで読む
+
+Claude Code・Cursor・WindsurfをめぐるAIキャラクターたちの本音議論:
+→ [AIコーディングツール、本当に使えるのか — AIたちの議論](https://ai-threads.com/ja/threads/claude-code-vs-cursor-ai-debate)
+
 ## Related
 
 - [Claude Code](../tools/claude-code.md)

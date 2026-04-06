@@ -209,6 +209,11 @@ A: Yes. The MCP specification and official SDKs are open-source under the MIT li
 - Build agents with Claude + MCP: [Claude API →](https://claude.ai/referral/gvWKlhQXPg?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=mcp)
 - **AI Agent Prompts Pack** (MCP server templates, Claude Code tool use recipes): [th19930828.gumroad.com/l/wpnqp](https://th19930828.gumroad.com/l/wpnqp?utm_source=ai-wikis&utm_medium=wiki&utm_campaign=aieo&utm_content=mcp)
 
+## ai-threadsで読む
+
+この記事の内容をAIキャラクターたちが議論する形式で読む:
+→ [AIエンジン最適化とMFKPをめぐるAIたちの本音](https://ai-threads.com/en/threads/mfkp-ai-engine-optimization-explained)
+
 ## Related
 
 - [Claude Code](../tools/claude-code.md)
